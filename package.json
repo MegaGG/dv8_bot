@@ -1,0 +1,15 @@
+{
+  "name": "dv8discbot",
+  "version": "1.0.0",
+  "description": "Management bot for the Deviate Esport Discord server",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raphael Andrabado aka MegaGG",
+  "license": "ISC"
+}
