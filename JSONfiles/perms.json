@@ -1,0 +1,17 @@
+{
+    "instInv": "CREATE_INSTANT_INVITE",
+    "kick": "KICK_MEMBERS",
+    "ban": "BAN_MEMBERS",
+    "admin": "ADMINISTRATOR",
+    "manageChannel": "MANAGE_CHANNEL",
+    "manageGuild": "MANAGE_GUILD",
+    "addReact": "ADD_REACTIONS",
+    "viewLogs": "VIEW_AUDIT_LOG",
+    "readMessage": "READ_MESSAGES",
+    "sendMessage": "SEND_MESSAGES",
+    "textToSpeech": "SEND_TTS_MESSAGES",
+    "manageMessage": "MANAGE_MESSAGES",
+    "embedLink": "EMBED_LINKS",
+    "attachFiles": "ATTACH_FILES"
+
+}
